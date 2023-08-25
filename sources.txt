@@ -1,0 +1,5 @@
+https://www.c-sharpcorner.com/UploadFile/9582c9/script-for-login-logout-and-view-using-php-mysql-and-boots/
+
+https://wlearnsmart.com/store-and-retrieve-image-from-database-in-php/
+
+https://www.youtube.com/watch?v=1NiJcZrPHvA&t=283s
